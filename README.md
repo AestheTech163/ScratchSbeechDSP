@@ -6,3 +6,5 @@ step by step DSP based AEC
 3. kalman-simplified
 4. dual filter: nlms-kalman
 5. dual filter with spec-sub or mmse-denoise
+6. double-talk analysis
+7. echo path change analysis
